@@ -2,7 +2,7 @@ Cell Neuclei Detection using Semantic Segmentation with U-Net
 
 1. Summary
 
-The aim of the project is to create a model that can perform image segmentation on cell nuclei. As cell nuclei vary in shapes and sizes, semantic segmentation proves to be the best approach to detect them. A deep learning model is trained and deployed for this task. The model is trained with the well known https://www.kaggle.com/competitions/data-science-bowl-2018/overview
+The aim of the project is to create a model that can perform image segmentation on cell nuclei. As cell nuclei vary in shapes and sizes, semantic segmentation proves to be the best approach to detect them. A deep learning model is trained and deployed for this task. The model is trained with the well known [2018 Data Science Bowl dataset.]https://www.kaggle.com/competitions/data-science-bowl-2018/overview
 
 2. IDE and Framework
 
