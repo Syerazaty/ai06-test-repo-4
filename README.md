@@ -10,7 +10,7 @@ The project is built with Spyder as the main IDE. The main frameworks used in th
 
 3. Methodology
 
-The methodology is inspired by a documentation available in the official TensorFlow website. You can refer to the documentation here.
+The methodology is inspired by a documentation available in the official TensorFlow website. You can refer to the documentation [here.](https://www.tensorflow.org/tutorials/images/segmentation)
 
 3.1. Input Pipeline
 
